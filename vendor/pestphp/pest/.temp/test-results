@@ -1,0 +1,1 @@
+{"version":"pest_3.6.0","defects":{"Tests\\Feature\\InviteControllerTest::it_sends_an_invitation_email":7},"times":{"P\\Tests\\Unit\\ExampleTest::__pest_evaluable_that_true_is_true":0.018,"P\\Tests\\Feature\\ExampleTest::__pest_evaluable_it_returns_a_successful_response":0.087,"Tests\\Feature\\InviteControllerTest::it_sends_an_invitation_email":0.771}}
